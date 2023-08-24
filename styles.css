@@ -39,7 +39,7 @@
 /* page-one  -  MAC&CHEESE*/
 
 .page-one-body {
-  background-image: url(../odin-recipes/Images/thought-catalog-9aOswReDKPo-unsplash.jpg);
+  background-image: url(../odin-recipes-backup/Images/thought-catalog-9aOswReDKPo-unsplash.jpg);
   font-family: Arial, Helvetica, sans-serif;
 }
 .page-one-header {
@@ -58,11 +58,21 @@
   color: rgb(0, 44, 24);
 }
 
-/*page-two  -  Shredded Chicken          */
+/* page-two  -  Shredded Chicken*/
 
 .page-two-body {
-  color: brown;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+  background-color: rgb(240, 66, 22);
+}
+.page-two-header {
+  text-align: center;
+  color: rgb(49, 9, 61);
 }
 .page-two-return{
-  color: beige;
+  color: rgb(47, 0, 175);
+}
+.page-two-description{
+  background-color: aquamarine;
+  text-decoration: underline; 
 }
